@@ -2,4 +2,4 @@
 Web Chat app using meteor 
 
 #Meteor
-More info [Here](https://www.meteor.com/)
+More info on [their website](https://www.meteor.com/)
